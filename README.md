@@ -1,3 +1,13 @@
+<h1 align="center">⚠️ Archived</h1>
+
+<p align="center"><strong>This project is no longer maintained.</strong></p>
+<p align="center">
+Development continues in a new project with more stuff:<br/>
+<a href="https://github.com/openitools/openitools"><strong>→ OpeniTools</strong></a>
+</p>
+
+<hr />
+
 <h1 align="center">
   <br>
   <a href="http://github.com/Abdullah-Albanna/YemenIPCC/releases/latest"><img src="https://raw.githubusercontent.com/Abdullah-Albanna/YemenIPCC/main/resources/images/YemenIPCC.png" alt="Yemen IPCC" width="220"></a>
@@ -40,6 +50,7 @@ The whole thing is written in Python/Tk for now, built for Windows, Mac and Linu
 </p>
 
 # Screenshot
+
 <h1 align="center">
   <br>
   <a href="https://raw.githubusercontent.com/Abdullah-Albanna/YemenIPCC/main/resources/images/YemenIPCC_screenshot.png"><img src="https://raw.githubusercontent.com/Abdullah-Albanna/YemenIPCC/main/resources/images/YemenIPCC_screenshot.png" alt="Screenshot" width="1000"></a>
@@ -52,35 +63,39 @@ The whole thing is written in Python/Tk for now, built for Windows, Mac and Linu
 - Easy to use
 
 # Usage
+
 As simple as opening the app and pressing a button
 
 **Args:**
-  - `-d, --debug`
-    - Runs the app with debug mode
-  - `-df, --debug-file`
-    - Runs the app with debug mode and saves the logs to a temporary file (run `-h` to look at the file path)
-  - `-h, --help`
-    - Shows the help screen
-   
-  - `-v, --version`
-    - Shows the app version
- 
+
+- `-d, --debug`
+  - Runs the app with debug mode
+- `-df, --debug-file`
+  - Runs the app with debug mode and saves the logs to a temporary file (run `-h` to look at the file path)
+- `-h, --help`
+
+  - Shows the help screen
+
+- `-v, --version`
+  - Shows the app version
+
 # Contact
-   
- * <a href="https://www.facebook.com/abdullah.albanna.921/" style="text-decoration: none;">
-    Facebook
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 30px; height: 20px; vertical-align: middle; margin-left: 5px;">
-   </a>
 
- * <a href="https://t.me/Abdullah_Albanna" style="text-decoration: none;">
-    Telegram
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width: 30px; height: 20px; vertical-align: middle; margin-left: 5px;">
-   </a>
+- <a href="https://www.facebook.com/abdullah.albanna.921/" style="text-decoration: none;">
+   Facebook
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 30px; height: 20px; vertical-align: middle; margin-left: 5px;">
+  </a>
 
- * <a href="mailto:albannaa78@gmail.com" style="text-decoration: none;">
-    Gmail
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" style="width: 30px; height: 15px; vertical-align: middle; margin-left: 5px;">
-   </a>
+- <a href="https://t.me/Abdullah_Albanna" style="text-decoration: none;">
+   Telegram
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width: 30px; height: 20px; vertical-align: middle; margin-left: 5px;">
+  </a>
+
+- <a href="mailto:albannaa78@gmail.com" style="text-decoration: none;">
+   Gmail
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" style="width: 30px; height: 15px; vertical-align: middle; margin-left: 5px;">
+  </a>
 
 # License
- Refer to the [LICENSE](https://github.com/Abdullah-Albanna/YemenIPCC/blob/app-source/LICENSE) file.
+
+Refer to the [LICENSE](https://github.com/Abdullah-Albanna/YemenIPCC/blob/app-source/LICENSE) file.
